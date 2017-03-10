@@ -1,0 +1,36 @@
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\obj\Debug\ResolveAssemblyReference.cache
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\obj\Debug\App.g.i.cs
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\obj\Debug\MainPage.g.i.cs
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\obj\Debug\Hackthon.g.resources
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\Bin\Debug\ApplicationIcon.png
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\Bin\Debug\Background.png
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\Bin\Debug\Hackthon.dll
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\Bin\Debug\Hackthon.pdb
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\Bin\Debug\AppManifest.xaml
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\Bin\Debug\Hackthon.xap
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\obj\Debug\Hackthon.dll
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\obj\Debug\Hackthon.pdb
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\obj\Debug\XapCacheFile.xml
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\obj\Debug\About.g.i.cs
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\obj\Debug\Action.g.i.cs
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\obj\Debug\EuEstou.g.i.cs
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\obj\Debug\EuQuero.g.i.cs
+c:\users\augusto\documents\visual studio 2010\Projects\Hackthon\Hackthon\obj\Debug\EuVou.g.i.cs
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\obj\Debug\Hackthon.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\obj\Debug\App.g.cs
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\obj\Debug\About.g.cs
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\obj\Debug\Action.g.cs
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\obj\Debug\EuEstou.g.cs
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\obj\Debug\EuQuero.g.cs
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\obj\Debug\EuVou.g.cs
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\obj\Debug\MainPage.g.cs
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\obj\Debug\Hackthon.g.resources
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\obj\Debug\Hackthon.dll
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\obj\Debug\Hackthon.pdb
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\Bin\Debug\ApplicationIcon.png
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\Bin\Debug\Background.png
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\Bin\Debug\Hackthon.dll
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\Bin\Debug\Hackthon.pdb
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\Bin\Debug\AppManifest.xaml
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\Bin\Debug\Hackthon.xap
+C:\Users\User\Documents\Hackthon\Hackthon\Hackthon\obj\Debug\XapCacheFile.xml
